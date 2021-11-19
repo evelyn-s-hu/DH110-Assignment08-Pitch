@@ -1,5 +1,4 @@
-# DH110-Assignment08-Pitch
-
+# Redesigning the Washington State Department of Ecology Website
 ## Introduction: a brief information about the project.
 What is the project about? The motivation of the project and possible contribution.
 
