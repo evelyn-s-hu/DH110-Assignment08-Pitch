@@ -1,12 +1,19 @@
 # Redesigning the Washington State Department of Ecology Website
-## Introduction: a brief information about the project.
+Evelyn Hu  
+DH110  
+## Introduction
+a brief information about the project.
 What is the project about? The motivation of the project and possible contribution.
 
-## Clear design statement:
+
+
+## Design Statement
 What is the issue and Why do you think it is important to resolve that issue by your project?
 
-## Competitor analysis
+## Competitor Analysis
 Summary and link to the heuristics and usability testing of the existing product(s) - or the original website you evaluated
+
+View the full heuristic evaluation (here)[https://github.com/evelyn-s-hu/DH110-Assignment01-HeuristicEvaluation/blob/main/README.md].
 
 ## User research
 Summary and link to your assignment folder
