@@ -13,20 +13,28 @@ What is the issue and Why do you think it is important to resolve that issue by 
 ## Competitor Analysis
 Summary and link to the heuristics and usability testing of the existing product(s) - or the original website you evaluated
 
-View the full heuristic evaluation (here)[https://github.com/evelyn-s-hu/DH110-Assignment01-HeuristicEvaluation/blob/main/README.md].
-
+View the full heuristic evaluation [here](https://github.com/evelyn-s-hu/DH110-Assignment01-HeuristicEvaluation/blob/main/README.md) and the usability test [here](https://github.com/evelyn-s-hu/DH110-Assignment02-PilotUT/blob/main/README.md).
 ## User research
 Summary and link to your assignment folder
 
-## UX storytelling [persona+scenario, assignment05]
+
+View the full user research [here](https://github.com/evelyn-s-hu/DH110-Assignment03-UserResearch/blob/main/README.md).
+
+## UX storytelling [persona+scenario, assignment04]
 Summary and link to your assignment folder
 
-## Wireframe and graphic design element variation [assignment06 + part of 07]
+View the full persona and scenarios [here](https://github.com/evelyn-s-hu/DH110-Assignment4-PersonaScenario/blob/main/README.md).
+
+## Wireframe and graphic design element variation [assignment05 + part of 06]
 Low-fidelity prototype (wireflow, assignment06)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
 
-## High-fidelity prototype (functional/interactive prototype, assignment08)
+View the full low-fidelity prototypes [here](https://github.com/evelyn-s-hu/DH110-Assignment05-LowFidelityPrototype/blob/main/README.md).
+The interface design can be viewed [here](https://github.com/evelyn-s-hu/DH110-Assignment06-InterfaceDesign/blob/main/README.md).
+## High-fidelity prototype (functional/interactive prototype, assignment7)
 Summary statement and link to or an embedded prototype
+
+The high-fidelity prototypes can be viewed [here](https://github.com/evelyn-s-hu/DH110-Assignment07-HighFiPrototype/blob/main/README.md).
 
 ## Optional evaluation and revision history
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
