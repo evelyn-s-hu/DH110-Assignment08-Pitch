@@ -2,13 +2,10 @@
 Evelyn Hu  
 DH110  
 ## Introduction
-a brief information about the project.
-What is the project about? The motivation of the project and possible contribution.
-
-
+This project was centered around redesigning the Washington State Department of Ecology website in order to make the copious amounts of information more accessible, as well as more relevant to the general. The environment is in a precarious state, and more effort must be put towards protecting it; therefore, making the Department of Ecology website more accessible is a way to encourage people to practice protecting the natural environment. In my redesign of the website, I added a feature that allows users to sort the many regulations and permits as necessary. This was designed with professionals working at various businesses in mind, so that they are able to stay organized and ensure their respective businesses are able to follow all environmental regulations. The other feature added was one that encourages the general public to volunteer for various environmental causes through the implementation of a convenient volunteering portal that allows users to sign up for opportunities directly on the website.  
 
 ## Design Statement
-What is the issue and Why do you think it is important to resolve that issue by your project?
+As protecting the environment is an overwhelming but important task, I wanted to make this task less daunting by implementing features that will make it more accessible to a variety of people, depending on the role that they play. As it is now, the website does not allow user-friendly interaction with the various resources offered; for example, the great amount of regulations and permits are hard to peruse and organize depending on topic. 
 
 ## Competitor Analysis
 Summary and link to the heuristics and usability testing of the existing product(s) - or the original website you evaluated
