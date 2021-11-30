@@ -11,6 +11,9 @@ As protecting the environment is an overwhelming but important task, I wanted to
 ## Competitor Analysis
 At the beginning of the project, I conducted a heuristic evaluation on the Washington State Department of Ecology website to determine what improvements could be made to the site. I found that the orginial website, while simple and informational, seems to be lacking in functionality; though it is a great resource for information if you know what you are looking for, other users may find the website bereft of any substantial use. I wanted to improve the permits and regulations portion of the site with more features and functionality, so that users will be able to navigate the information more efficiently.  
 I also conducted a pilot usability test using the same Department of Ecology website. Through this usability test, I discovered that the tabs on the menu are not very descriptive, and the user therefore had difficultly navigating certain parts of the website. Additionally, even though there were moments where the search bar would have come in handy, the user decided not to use it; this made me think that it should be placed in a more prominent position or made bigger and more obvious.  
+
+![Department of Ecology Website screenshot](https://github.com/evelyn-s-hu/DH110-Assignment01-HeuristicEvaluation/raw/main/WAecologywebsite.PNG)
+
 View the full heuristic evaluation [here](https://github.com/evelyn-s-hu/DH110-Assignment01-HeuristicEvaluation/blob/main/README.md) and the usability test [here](https://github.com/evelyn-s-hu/DH110-Assignment02-PilotUT/blob/main/README.md).  
 
 ## User Research
@@ -48,6 +51,8 @@ After creating low-fidelity prototypes and finalizing the graphic design element
 The full documentation behind the high-fidelity prototypes can be viewed [here](https://github.com/evelyn-s-hu/DH110-Assignment07-HighFiPrototype/blob/main/README.md).
 
 ## Pitch Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Krx54IsvJpE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Conclusion
 Overall, I'm glad to have taken this class, as I feel like I have gained valuable knowledge of the process of UX design. I appreciated that it was a very hands-on experience, and am thankful that we were able to learn so much about user design principles and using Figma. In particular, I was very interested in learning how to use Figma, and enjoyed the process of learning how to prototype, create components, use various plugins, and much more in Figma.  
