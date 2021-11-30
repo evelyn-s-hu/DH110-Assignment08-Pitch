@@ -43,7 +43,7 @@ The interface design can be viewed [here](https://github.com/evelyn-s-hu/DH110-A
 ## High-Fidelity Prototype
 After creating low-fidelity prototypes and finalizing the graphic design elements, I created a high-fidelity prototype of my website using Figma. Through user feedback, I was able to make various edits and finalize the design of the graphic interface, and was able to create an interactive prototype which can be viewed below.  
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FYlxbVbvTJWaARPeR9iDAQ7%2FDH110-Assignment-7-HiFi-Prototype%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FYlxbVbvTJWaARPeR9iDAQ7%2FDH110-Assignment-7-HiFi-Prototype%3Fnode-id%3D2%253A2%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D2%253A2" allowfullscreen></iframe>
 
 The full documentation behind the high-fidelity prototypes can be viewed [here](https://github.com/evelyn-s-hu/DH110-Assignment07-HighFiPrototype/blob/main/README.md).
 
