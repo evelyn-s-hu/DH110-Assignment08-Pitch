@@ -18,7 +18,7 @@ In order to better understand the issues identified through my pilot usability t
 
 View the full user research [here](https://github.com/evelyn-s-hu/DH110-Assignment03-UserResearch/blob/main/README.md).
 
-## UX storytelling [persona+scenario, assignment04]
+## UX Storytelling
 In order to better visualize possible users' perspectives, I created personas that served as potential users of my website. Creating personas is an essential step in user experience design, as it allows designers to keep in mind potential users as they are designing a product for them. Using personas can help designers prevent their personal biases from effecting the product as they design while keeping in mind users. For this project, I created 2 personas; one persona was intended to be a professional working with environmental regulations, and the other was a student hoping to begin helping the environment.  
 
 ![Persona 1](https://github.com/evelyn-s-hu/DH110-Assignment04-PersonaScenario/raw/main/persona1.png)  
@@ -26,21 +26,28 @@ In order to better visualize possible users' perspectives, I created personas th
 
 View the full personas and scenarios [here](https://github.com/evelyn-s-hu/DH110-Assignment4-PersonaScenario/blob/main/README.md).
 
-## Wireframe and graphic design element variation [assignment05 + part of 06]
-Low-fidelity prototype (wireflow, assignment06)
-Summary and link to the sketches (may contains the multiple versions and evaluation history)
+## Wireframe and Graphic Design Element Variation
+After creating personas and scenarios as a proposal to implement features to make the Washington State Department of Ecology website more accessible, I then constructed low-fidelity prototypes that model the implementation of such features. In particular, I wanted to create a user portal that allows users to keep track of regulations and permits, as well as a volunteering portal through which users can easily find volunteer opportunities.  
+
+![Lo-fi wireframe 1](https://github.com/evelyn-s-hu/DH110-Assignment05-LowFidelityPrototype/raw/main/WF1.jpg)
+![Lo-fi wireframe 2](https://i.imgur.com/dXj9iPU.jpg)
+![Lo-fi wireframe 3](https://github.com/evelyn-s-hu/DH110-Assignment05-LowFidelityPrototype/raw/main/WF2.jpg)
+
+Once I drafted these wireframes, I had a user test them to ensure that the flow was clear. Then, I created the design digitally on Figma. As I created the system design, I wanted to choose elements that were as close to the original website as possible, so that it would appear cohesively integrated into the Washington State Department of Ecology website.  
+![Graphic design element variation](https://github.com/evelyn-s-hu/DH110-Assignment06-InterfaceDesign/raw/main/SystemDesign1.PNG)
+![Figma prototype 1](https://github.com/evelyn-s-hu/DH110-Assignment06-InterfaceDesign/raw/main/UIlight1.PNG)
+![Figma prototype 2](https://github.com/evelyn-s-hu/DH110-Assignment06-InterfaceDesign/raw/main/UIdark1.PNG)  
 
 View the full low-fidelity prototypes [here](https://github.com/evelyn-s-hu/DH110-Assignment05-LowFidelityPrototype/blob/main/README.md).
 The interface design can be viewed [here](https://github.com/evelyn-s-hu/DH110-Assignment06-InterfaceDesign/blob/main/README.md).
-## High-fidelity prototype (functional/interactive prototype, assignment7)
-Summary statement and link to or an embedded prototype
+## High-Fidelity Prototype
+After creating low-fidelity prototypes and finalizing the graphic design elements, I created a high-fidelity prototype of my website using Figma. Through user feedback, I was able to make various edits and finalize the design of the graphic interface, and was able to create an interactive prototype which can be viewed below.  
 
-The high-fidelity prototypes can be viewed [here](https://github.com/evelyn-s-hu/DH110-Assignment07-HighFiPrototype/blob/main/README.md).
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FYlxbVbvTJWaARPeR9iDAQ7%2FDH110-Assignment-7-HiFi-Prototype%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
-## Optional evaluation and revision history
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+The full documentation behind the high-fidelity prototypes can be viewed [here](https://github.com/evelyn-s-hu/DH110-Assignment07-HighFiPrototype/blob/main/README.md).
 
 ## Pitch Video
 
-## Conclusion : what did you learn throughout the process?
+## Conclusion
  
