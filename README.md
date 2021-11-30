@@ -50,4 +50,5 @@ The full documentation behind the high-fidelity prototypes can be viewed [here](
 ## Pitch Video
 
 ## Conclusion
- 
+Overall, I'm glad to have taken this class, as I feel like I have gained valuable knowledge of the process of UX design. I appreciated that it was a very hands-on experience, and am thankful that we were able to learn so much about user design principles and using Figma. In particular, I was very interested in learning how to use Figma, and enjoyed the process of learning how to prototype, create components, use various plugins, and much more in Figma.  
+One thing I didn't necessarily consciously realize before taking this class was the fact that the UX design process is as iterative as it is; however, it makes sense, and the usability testing and user feedback I received while working on my project was incredibly useful. Prior to beginning the project, I had prior ideas of how I tend to like to design layouts; however, I realized that your own design is not necessarily the most user-friendly or even usable. Therefore, it's important to keep in mind the user as you are working on designing, and maintain flexibility when things may not turn out the way you wanted it to at first. I was able to learn a lot from my peers and their feedback, and feel confident that I will be able to improve upon future projects.
