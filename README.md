@@ -13,16 +13,18 @@ At the beginning of the project, I conducted a heuristic evaluation on the Washi
 I also conducted a pilot usability test using the same Department of Ecology website. Through this usability test, I discovered that the tabs on the menu are not very descriptive, and the user therefore had difficultly navigating certain parts of the website. Additionally, even though there were moments where the search bar would have come in handy, the user decided not to use it; this made me think that it should be placed in a more prominent position or made bigger and more obvious.  
 View the full heuristic evaluation [here](https://github.com/evelyn-s-hu/DH110-Assignment01-HeuristicEvaluation/blob/main/README.md) and the usability test [here](https://github.com/evelyn-s-hu/DH110-Assignment02-PilotUT/blob/main/README.md).  
 
-## User research
-Summary and link to your assignment folder
-
+## User Research
+In order to better understand the issues identified through my pilot usability test, I conducted user research. I decided to do this through participant observation and conducting an interview to understand how users find and interact with the websites regarding the environment. I had my participant research where to find environmental volunteering opportunities and observed her actions as she did so. During the interview, I was able to gain insight on how an average person may view their actions towards helping the environment; that is, the environment, as massive as it is and with as many issues as it has, can be very overwhelming to just one person. This made me realize that it is imperative to make a website regarding the environment as user-friendly as possible, so as not to negatively impact users' cognitive load any more than necessary.  
 
 View the full user research [here](https://github.com/evelyn-s-hu/DH110-Assignment03-UserResearch/blob/main/README.md).
 
 ## UX storytelling [persona+scenario, assignment04]
-Summary and link to your assignment folder
+In order to better visualize possible users' perspectives, I created personas that served as potential users of my website. Creating personas is an essential step in user experience design, as it allows designers to keep in mind potential users as they are designing a product for them. Using personas can help designers prevent their personal biases from effecting the product as they design while keeping in mind users. For this project, I created 2 personas; one persona was intended to be a professional working with environmental regulations, and the other was a student hoping to begin helping the environment.  
 
-View the full persona and scenarios [here](https://github.com/evelyn-s-hu/DH110-Assignment4-PersonaScenario/blob/main/README.md).
+![Persona 1](https://github.com/evelyn-s-hu/DH110-Assignment04-PersonaScenario/raw/main/persona1.png)  
+![Persona 1 Empathy Map](https://github.com/evelyn-s-hu/DH110-Assignment04-PersonaScenario/raw/main/empathy1.png)  
+
+View the full personas and scenarios [here](https://github.com/evelyn-s-hu/DH110-Assignment4-PersonaScenario/blob/main/README.md).
 
 ## Wireframe and graphic design element variation [assignment05 + part of 06]
 Low-fidelity prototype (wireflow, assignment06)
